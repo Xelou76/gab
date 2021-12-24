@@ -1,0 +1,20 @@
+Attention, pour économiser du temps, les joueurs et leur nom sont directement initialisé dans le code.
+Dernièrement : 2 joueurs : Joueur1 et Joueur2
+
+Ajout fonction : Afficher infos Joueurs 
+		 Afficher infos Case
+			
+Modif structures :
+		t_joueur : ajout d'un tableau de string contenant les noms des possessions du joueur, complémentaire au tableau répertoriant les numéros des cases possédées
+		t_caseDePlateau : ajout prixAchat
+				  ajout prixLoyer
+
+Modif fonctions : AcheterPropriétés : maintenant la notion d'argent est introduit dans le jeu
+		  DeroulementTourdejeu : implémentation des nouvelles fonctions 	
+					 Système de loyer 
+	
+A faire : 
+	  Tirage de cartes
+	  Que faire si solde négatif ?
+	  Transaction entre joueurs ?
+	  
