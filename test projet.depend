@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1638270207 source:c:\users\pierrot\documents\ecole\codeblocksproject\test projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+
+1638907990 source:c:\users\pierrot\documents\ecole\codeblocksproject\test_projet_lancement de\main.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	"biblio_fonction_préparation.h"
+	"time.h"
+	"structures.h"
+
+1638903667 source:c:\users\pierrot\documents\ecole\codeblocksproject\test_projet_lancement de\fonction_préparation.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	"biblio_fonction_préparation.h"
+	"structures.h"
+
+1638907395 c:\users\pierrot\documents\ecole\codeblocksproject\test_projet_lancement de\biblio_fonction_préparation.h
+	"structures.h"
+
+1638350623 c:\users\pierrot\documents\ecole\codeblocksproject\test_projet_lancement de\fonction_préparation.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	"biblio_fonction_préparation.h"
+
+1638908225 source:c:\users\pierrot\documents\ecole\codeblocksproject\test_projet_lancement de\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	"biblio_fonction_préparation.h"
+	"structures.h"
+
+1638907395 c:\users\pierrot\documents\ecole\codeblocksproject\test_projet_lancement de\structures.h
+
+1638818528 source:c:\users\pierrot\documents\ecole\codeblocksproject\test_projet_lancement de\menus.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	"biblio_fonction_préparation.h"
+	"structures.h"
+
+1639088143 source:c:\users\veos6376\documents\github\monmonopoly\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	"biblio_fonction_préparation.h"
+	"structures.h"
+
+1639088143 c:\users\veos6376\documents\github\monmonopoly\biblio_fonction_préparation.h
+	"structures.h"
+
+1639088143 c:\users\veos6376\documents\github\monmonopoly\structures.h
+
+1639088143 source:c:\users\veos6376\documents\github\monmonopoly\fonction_préparation.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	"biblio_fonction_préparation.h"
+	"structures.h"
+
+1639004909 source:c:\users\veos6376\documents\github\monmonopoly\menus.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	"biblio_fonction_préparation.h"
+	"structures.h"
+
+1639088143 source:c:\users\veos6376\documents\github\monmonopoly\main.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	"biblio_fonction_préparation.h"
+	"time.h"
+	"structures.h"
+
