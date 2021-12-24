@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1638270207 source:c:\users\pierrot\documents\ecole\codeblocksproject\test projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+
+1638907990 source:c:\users\pierrot\documents\ecole\codeblocksproject\test_projet_lancement de\main.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	"biblio_fonction_préparation.h"
+	"time.h"
+	"structures.h"
+
+1638903667 source:c:\users\pierrot\documents\ecole\codeblocksproject\test_projet_lancement de\fonction_préparation.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	"biblio_fonction_préparation.h"
+	"structures.h"
+
+1638907395 c:\users\pierrot\documents\ecole\codeblocksproject\test_projet_lancement de\biblio_fonction_préparation.h
+	"structures.h"
+
+1638350623 c:\users\pierrot\documents\ecole\codeblocksproject\test_projet_lancement de\fonction_préparation.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	"biblio_fonction_préparation.h"
+
+1638908225 source:c:\users\pierrot\documents\ecole\codeblocksproject\test_projet_lancement de\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	"biblio_fonction_préparation.h"
+	"structures.h"
+
+1638907395 c:\users\pierrot\documents\ecole\codeblocksproject\test_projet_lancement de\structures.h
+
+1638818528 source:c:\users\pierrot\documents\ecole\codeblocksproject\test_projet_lancement de\menus.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	"biblio_fonction_préparation.h"
+	"structures.h"
+
+1639335206 source:c:\users\pierrot\documents\ecole\codeblocksproject\monopoly_codeblocks_project\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	"biblio_fonction_préparation.h"
+	"structures.h"
+	"time.h"
+	"stdbool.h"
+
+1639330905 c:\users\pierrot\documents\ecole\codeblocksproject\monopoly_codeblocks_project\biblio_fonction_préparation.h
+	"structures.h"
+
+1639341076 c:\users\pierrot\documents\ecole\codeblocksproject\monopoly_codeblocks_project\structures.h
+
+1639335319 source:c:\users\pierrot\documents\ecole\codeblocksproject\monopoly_codeblocks_project\fonction_préparation.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	"biblio_fonction_préparation.h"
+	"structures.h"
+	"time.h"
+	"stdbool.h"
+
+1639341047 source:c:\users\pierrot\documents\ecole\codeblocksproject\monopoly_codeblocks_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	"biblio_fonction_préparation.h"
+	"structures.h"
+	"time.h"
+	"stdbool.h"
+
+1639238127 source:c:\users\pierrot\documents\ecole\codeblocksproject\monopoly_codeblocks_project\menus.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	"biblio_fonction_préparation.h"
+	"structures.h"
+	"time.h"
+	"stdbool.h"
+
+1639334148 source:c:\users\pierrot\documents\ecole\codeblocksproject\monopoly_codeblocks_project\traitement.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	"biblio_fonction_préparation.h"
+	"structures.h"
+	"time.h"
+	"stdbool.h"
+
+1639334756 source:c:\users\pierrot\documents\ecole\codeblocksproject\monopoly_codeblocks_project\deroulement.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	"biblio_fonction_préparation.h"
+	"structures.h"
+	"time.h"
+	"stdbool.h"
+
