@@ -1,0 +1,50 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <windows.h>
+
+void Color(int couleurDuTexte,int couleurDeFond);
+
+int main()
+{
+    Color(15,0);
+    printf("\n");
+    printf("\n                Die-  Rouen    Le    Gare   Chan-  Caen   Le                                                                        ");
+    printf("\n        Prison  ppe           Havre  Ouest   ce          Mans   Parc                                                               ");
+    printf("\n        ______________________________________________________________    ");
+    printf("\n       |");Color(15,8);  printf("      ");Color(15,0); printf("|");Color(15,12);  printf("      ");Color(15,0); printf("|");Color(15,12);  printf("      ");Color(15,0); printf("|");Color(15,12);  printf("      ");Color(15,0); printf("|");Color(15,10);  printf("      ");Color(15,0); printf("|");Color(15,13);  printf("      ");Color(15,0); printf("|");Color(15,6);  printf("      ");Color(15,0); printf("|");Color(15,6);  printf("      ");Color(15,0); printf("|");Color(15,8);  printf("      ");Color(15,0); printf("|            ");
+    printf("\n Viste |");Color(15,8);  printf("      ");Color(15,0); printf("|");Color(15,12);  printf("      ");Color(15,0); printf("|");Color(15,12);  printf("      ");Color(15,0); printf("|");Color(15,12);  printf("      ");Color(15,0); printf("|");Color(15,10);  printf("      ");Color(15,0); printf("|");Color(15,13);  printf("      ");Color(15,0); printf("|");Color(15,6);  printf("      ");Color(15,0); printf("|");Color(15,6);  printf("      ");Color(15,0); printf("|");Color(15,8);  printf("      ");Color(15,0); printf("| Gratuit    ");
+    printf("\n       |");Color(15,8);  printf("______");Color(15,0); printf("|");Color(15,12);  printf("______");Color(15,0); printf("|");Color(15,12);  printf("______");Color(15,0); printf("|");Color(15,12);  printf("______");Color(15,0); printf("|");Color(15,10);  printf("______");Color(15,0); printf("|");Color(15,13);  printf("______");Color(15,0); printf("|");Color(15,6);  printf("______");Color(15,0); printf("|");Color(15,6);  printf("______");Color(15,0); printf("|");Color(15,8);  printf("      ");Color(15,0); printf("|            ");
+    printf("\n Dunke-|");Color(15,3);  printf("      ");Color(15,0); printf("|                                                |");Color(15,4);   printf("      ");Color(15,0); printf("|            ");
+    printf("\n rque  |");Color(15,3);  printf("      ");Color(15,0); printf("|                                                |");Color(15,4);   printf("      ");Color(15,0); printf("|  Lorient   ");
+    printf("\n       |");Color(15,3);  printf("______");Color(15,0); printf("|                                                |");Color(15,4);   printf("______");Color(15,0); printf("|            ");
+    printf("\n       |");Color(15,3);  printf("      ");Color(15,0); printf("|                                                |");Color(15,4);   printf("      ");Color(15,0); printf("|            ");
+    printf("\n Calais|");Color(15,3);  printf("      ");Color(15,0); printf("|                                                |");Color(15,4);   printf("      ");Color(15,0); printf("|  Pornic    ");
+    printf("\n       |");Color(15,3);  printf("______");Color(15,0); printf("|                                                |");Color(15,4);   printf("______");Color(15,0); printf("|            ");
+    printf("\n       |");Color(15,13); printf("      ");Color(15,0); printf("|                                                |");Color(15,4);   printf("      ");Color(15,0); printf("|            ");
+    printf("\n Chance|");Color(15,13); printf("      ");Color(15,0); printf("|                                                |");Color(15,4);   printf("      ");Color(15,0); printf("|  Royan     ");
+    printf("\n       |");Color(15,13); printf("______");Color(15,0); printf("|                                                |");Color(15,4);   printf("______");Color(15,0); printf("|            ");
+    printf("\n Gare  |");Color(15,10); printf("      ");Color(15,0); printf("|                                                |");Color(15,10);  printf("      ");Color(15,0); printf("|   Gare     ");
+    printf("\n  du   |");Color(15,10); printf("      ");Color(15,0); printf("|                                                |");Color(15,10);  printf("      ");Color(15,0); printf("|    du      ");
+    printf("\n Sud   |");Color(15,10); printf("______");Color(15,0); printf("|                                                |");Color(15,10);  printf("______");Color(15,0); printf("|   Nord     ");
+    printf("\n       |");Color(15,15); printf("      ");Color(15,0); printf("|                                                |");Color(15,13);  printf("      ");Color(15,0); printf("|            ");
+    printf("\n Impots|");Color(15,15); printf("      ");Color(15,0); printf("|                                                |");Color(15,13);  printf("      ");Color(15,0); printf("|  Chance    ");
+    printf("\n       |");Color(15,15); printf("______");Color(15,0); printf("|                                                |");Color(15,13);  printf("______");Color(15,0); printf("|            ");
+    printf("\n       |");Color(15,11); printf("      ");Color(15,0); printf("|                                                |");Color(15,14);  printf("      ");Color(15,0); printf("|            ");
+    printf("\n Troyes|");Color(15,11); printf("      ");Color(15,0); printf("|                                                |");Color(15,14);  printf("      ");Color(15,0); printf("|  Toulouse  ");
+    printf("\n       |");Color(15,11); printf("______");Color(15,0); printf("|                                                |");Color(15,14);  printf("______");Color(15,0); printf("|            ");
+    printf("\n       |");Color(15,11); printf("      ");Color(15,0); printf("|                                                |");Color(15,14);  printf("      ");Color(15,0); printf("|            ");
+    printf("\n Carca-|");Color(15,11); printf("      ");Color(15,0); printf("|                                                |");Color(15,14);  printf("      ");Color(15,0); printf("|  Perpignan ");
+    printf("\n sonne |");Color(15,11); printf("______");Color(15,0); printf("|________________________________________________|");Color(15,14);  printf("______");Color(15,0); printf("|            ");
+    printf("\n       |");Color(15,0);  printf("      ");Color(15,0); printf("|");Color(15,1);  printf("      ");Color(15,0); printf("|");Color(15,1);  printf("      ");Color(15,0); printf("|");Color(15,15);  printf("      ");Color(15,0); printf("|");Color(15,10);  printf("      ");Color(15,0); printf("|");Color(15,2);  printf("      ");Color(15,0); printf("|");Color(15,2);  printf("      ");Color(15,0); printf("|");Color(15,2);  printf("      ");Color(15,0); printf("|");Color(15,8);   printf("      ");Color(15,0); printf("|  Allez     ");
+    printf("\n Depart|");Color(15,0);  printf("      ");Color(15,0); printf("|");Color(15,1);  printf("      ");Color(15,0); printf("|");Color(15,1);  printf("      ");Color(15,0); printf("|");Color(15,15);  printf("      ");Color(15,0); printf("|");Color(15,10);  printf("      ");Color(15,0); printf("|");Color(15,2);  printf("      ");Color(15,0); printf("|");Color(15,2);  printf("      ");Color(15,0); printf("|");Color(15,2);  printf("      ");Color(15,0); printf("|");Color(15,8);   printf("      ");Color(15,0); printf("|   en       ");
+    printf("\n       |");Color(15,0);  printf("______");Color(15,0); printf("|");Color(15,1);  printf("______");Color(15,0); printf("|");Color(15,1);  printf("______");Color(15,0); printf("|");Color(15,15);  printf("______");Color(15,0); printf("|");Color(15,10);  printf("______");Color(15,0); printf("|");Color(15,2);  printf("______");Color(15,0); printf("|");Color(15,2);  printf("      ");Color(15,0); printf("|");Color(15,2);  printf("      ");Color(15,0); printf("|");Color(15,8);   printf("______");Color(15,0); printf("|  Prison    ");
+    printf("\n               Paris Neuilly Impots  Gare   Cap    Mars-  Nice                      ");
+    printf("\n                                     de Est ferret eille           ");
+    return 0;
+}
+
+void Color(int couleurDuTexte,int couleurDeFond) // fonction d'affichage de couleurs
+{
+    HANDLE H=GetStdHandle(STD_OUTPUT_HANDLE);
+    SetConsoleTextAttribute(H,couleurDeFond*16+couleurDuTexte);
+}
